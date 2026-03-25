@@ -1,0 +1,10 @@
+.desktop-nav {
+    padding: 22px 0px;
+    .nav-link{
+        color: black;
+    }
+}
+
+.desktop-nav_list-el_active {
+    font-weight: 500;
+}

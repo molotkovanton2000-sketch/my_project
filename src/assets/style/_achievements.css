@@ -1,0 +1,21 @@
+.achievements {
+    padding: 60px 0;
+    margin: 50px 0;
+    background-color: #f5f7fa;
+}
+
+.achievements__content-header {
+    h2{
+        font-size: 37px;
+        letter-spacing: 0.8px;
+    }
+    p {
+        color: #18191f;
+    }
+}
+
+.achievements__item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
