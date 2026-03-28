@@ -7,7 +7,7 @@
           <div class="promo__group">
             <h1>Lessons and insights <span>from 8 years</span></h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              LLLLLorem ipsum dolor sit amet, consectetur adipiscing elit.
               Elementum nisi aliquet volutpat pellentesque volutpat est.
             </p>
             <button class="button_primary-xl">Register</button>
